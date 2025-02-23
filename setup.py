@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="codify4pp",
-    version="0.1.0",
+    version="0.1.1",
     description="A tool to create project structures for deep learning paper publication.",
     author="Remosy",
     author_email="remosyxu@gmail.com",
