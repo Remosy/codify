@@ -1,8 +1,8 @@
-# Codify: Your Deep Learning Project Structure Generator 📜 
+# Codify4pp: Your Deep Learning Project Structure Generator 📜 
 
 [![PyPI version](https://badge.fury.io/py/codify.svg)](https://badge.fury.io/py/codify)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Codify is a simple command-line tool that quickly generates a well-organized project structure for your deep learning projects. It helps you start your projects with a clean and consistent foundation, promoting best practices and reproducibility.
+Codify4pp is a simple command-line tool that quickly generates a well-organized project structure for your deep learning projects. Especially for the paper publication. It helps you start your projects with a clean and consistent foundation, promoting best practices and reproducibility.
 
 ## Features 👇
 
@@ -15,7 +15,7 @@ Codify is a simple command-line tool that quickly generates a well-organized pro
 
 ## Installation 💪
 ```bash
-pip install codify
+pip install codify4pp
 ```
 
 ## Usage
@@ -23,12 +23,12 @@ pip install codify
 To create a new project structure, simply run:
 
 ```bash
-create-project <project_name>
+codify4pp <project_name>
 ```
 
 Replace <project_name> with the desired name for your project.  For example:
 ```bash
-create-project my_awesome_model
+codify4pp my_awesome_model
 ```
 
 :page_facing_up: This will create a directory named my_awesome_model in your current working directory with the following structure
